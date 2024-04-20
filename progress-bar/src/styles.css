@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-bar {
+  height: 5vh;
+  width: 85vh;
+  border: black solid 1px;
+  display: inline-block;
+  margin: auto;
+}
+
+.progress-bar-fill {
+  background: green;
+  height: 5vh;
+}
